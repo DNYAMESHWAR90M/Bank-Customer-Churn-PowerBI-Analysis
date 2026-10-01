@@ -51,4 +51,17 @@ The primary objective of this project is to analyze historical banking data to u
 * `Churn_Modelling.csv` - Project Dataset[cite: 4]
 * `Dashboard 1.png`, `Dashboard 2.png`, `Dashboard 3.png` - Preview screenshots of the Power BI dashboards[cite: 1, 2, 3]
 
+
+## 📸 Dashboard Preview
+
+### Dashboard 1 (Executive Overview)
+![Dashboard 1](Dashboard%201.png)
+
+### Dashboard 2 (Customer Demographics & Behavior)
+![Dashboard 2](Dashboard%202.png)
+
+### Dashboard 3 (Financial & Activity Analysis)
+![Dashboard 3](Dashboard%203.png)
+
+---
 ---
