@@ -37,12 +37,12 @@ The primary objective of this project is to analyze historical banking data to u
 ## 📸 Dashboard Preview
 
 ### Dashboard 1 (Executive Overview)
-![Dashboard 1](Dashboard%201.png)
+![Dashboard 1](Dashboard_1.png)
 
 ### Dashboard 2 (Customer Demographics & Behavior)
-![Dashboard 2](Dashboard%202.png)
+![Dashboard 2](Dashboard_2.png)
 
 ### Dashboard 3 (Financial & Activity Analysis)
-![Dashboard 3](Dashboard%203.png)
+![Dashboard 3](Dashboard_3.png)
 
 ---
